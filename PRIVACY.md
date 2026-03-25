@@ -36,4 +36,4 @@ If we update this policy, we will update the "Last updated" date above and push 
 
 ## Contact
 
-If you have any questions about this privacy policy, please [open an issue](https://github.com/GarethCa/HIITime-Support/issues) or email support@hiitimeapp.com.
+If you have any questions about this privacy policy, please [open an issue](https://github.com/pantry-org/HIITime-Support/issues).
