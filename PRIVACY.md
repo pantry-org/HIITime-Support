@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: October 29, 2026**
+**Last updated: October 30, 2026**
 
 This policy applies to HIITime 1.2 and later.
 
@@ -38,7 +38,6 @@ If you give permission, HIITime uses Apple Health as follows. You choose which t
 - Heart rate and active energy, to show live heart rate and calories during workouts.
 - Resting heart rate and date of birth, to set your heart-rate zones.
 - Body weight, to work out loads for bodyweight exercises.
-- Workouts.
 
 **Write:**
 
